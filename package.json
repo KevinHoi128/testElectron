@@ -1,0 +1,23 @@
+{
+  "name": "testelectron",
+  "version": "1.0.0",
+  "description": "test electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinHoi128/testElectron.git"
+  },
+  "author": "KevinHoi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KevinHoi128/testElectron/issues"
+  },
+  "homepage": "https://github.com/KevinHoi128/testElectron#readme",
+  "devDependencies": {
+    "electron": "^19.0.1"
+  }
+}
